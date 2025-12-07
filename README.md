@@ -18,9 +18,6 @@
 
 ![Abreham's GitHub stats](https://github-readme-stats.vercel.app/api?username=SpEcHlDe&show_icons=true&theme=radical)
 
-## 🔥 Recent Projects
-
-- **[GPA Calculator](https://github.com/SpEcHlDe/lab1_gpa_calculator)** - A Python-based student GPA management system
 
 ## 📫 Connect with Me
 
