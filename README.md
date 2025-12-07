@@ -16,7 +16,7 @@
 
 ## 📊 GitHub Stats
 
-![Abreham's GitHub stats](https://github-readme-stats.vercel.app/api?username=SpEcHlDe&show_icons=true&theme=radical)
+![Abreham's GitHub stats](https://github-readme-stats.vercel.app/api?username=SpEcHlDe)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🔥 Recent Projects
 
